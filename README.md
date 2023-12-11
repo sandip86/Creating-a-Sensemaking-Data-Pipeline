@@ -3,7 +3,8 @@
 
 Part 1: Code Development
 1.	Create a folder titled project-23. Place the code visualization folder within the project-23 folder, and create another empty folder titled airflow-docker. Then, create a new assignment.py file, which will contain your coding throughout the project. Provide a screenshot of the project-23 folder with the code visualization folder, airflow-docker folder, and assignment.py file within it.
- 
+ <img width="208" alt="image" src="https://github.com/sandip86/Creating-a-Sensemaking-Data-Pipeline/assets/153111110/1c581943-4eb4-4d92-b8b0-8f57256fb5e6">
+
 2.	Open the assignment.py file using VS Code. First, you will need to import all of the libraries that you will be using. Import the following libraries:
 i.	The DAG object (needed to instantiate a DAG)
 ii.	From airflow, import DAG.

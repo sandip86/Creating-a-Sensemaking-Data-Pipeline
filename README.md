@@ -1,1 +1,1 @@
-# Creating-a-Sensemaking-Data-Pipeline
+# Creating a Sensemaking Data Pipeline

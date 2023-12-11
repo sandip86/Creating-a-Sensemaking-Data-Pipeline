@@ -147,3 +147,6 @@ v.
    t0>>t1>>t2>>t3>>t4>>t5
 vi.	Provide a screenshot of the DAG declaration with all six tasks, from t0 to t5, correctly defined.
 ![image](https://github.com/sandip86/Creating-a-Sensemaking-Data-Pipeline/assets/153111110/913070f5-506e-4a65-a02c-32bb52b6d3e5)
+
+<img width="382" alt="image" src="https://github.com/sandip86/Creating-a-Sensemaking-Data-Pipeline/assets/153111110/7fce929d-16ba-4e95-9b0e-11a394cc0895">
+
